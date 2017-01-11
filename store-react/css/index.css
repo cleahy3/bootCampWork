@@ -1,0 +1,11 @@
+.item{
+	border:2px solid grey;
+	margin: 10px auto;
+	
+}
+.itemList{
+	text-align: center;
+	font-family: 'Almendra SC', serif;
+	margin: 0px auto;
+	max-width: 30%
+}

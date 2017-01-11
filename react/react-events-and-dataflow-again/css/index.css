@@ -1,0 +1,55 @@
+* {
+
+  font-family: 'Raleway', sans-serif;
+
+}
+
+#container {
+
+  padding:100px;
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+
+}
+
+.clock {
+
+  font-size:30px;
+
+}
+
+.clock .ticker {
+
+  display:inline-block;
+  padding:10px;
+
+}
+
+.clock .separator {
+
+  display:inline-block;
+
+}
+
+.lap {
+
+  font-size:15px;
+
+}
+
+.lap .ticker {
+
+  display:inline-block;
+  padding:15px;
+
+}
+
+.lap .separator {
+
+  display:inline-block;
+
+}
+
+

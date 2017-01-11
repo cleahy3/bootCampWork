@@ -1,0 +1,17 @@
+{
+  "name": "react",
+  "authors": [
+    "Callum Leahy <callumleahy23@googlemail.com>"
+  ],
+  "description": "Setting up a basic REACT page",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
